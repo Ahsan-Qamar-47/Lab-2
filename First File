@@ -5,4 +5,14 @@ class Program
     System.Console.WriteLine("Enter your Roll Number: ");
     string RollNumber = console, readline();
     System.Console.WriteLine("Your name is " + name + " and your Roll Number is " + RollNumber);
+    System.Console.WriteLine("My FSC Subjects are following:");
+    System.Console.WriteLine("English");
+    System.Console.WriteLine("Mathematics");
+    System.Console.WriteLine("Physics");
+    System.Console.WriteLine("Chemistry");
+    System.Console.WriteLine("Computer Science");
+    System.Console.WriteLine("Urdu");
+    System.Console.WriteLine("Islamiat");
+    System.Console.WriteLine("Pak Studies");
 }
+
