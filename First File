@@ -14,5 +14,10 @@ class Program
     System.Console.WriteLine("Urdu");
     System.Console.WriteLine("Islamiat");
     System.Console.WriteLine("Pak Studies");
+    System.Console.WriteLine("My 1st Semester Subjects are following:");
+    System.Console.WriteLine("Programming Language");
+    System.Console.WriteLine("Calculus");
+    System.Console.WriteLine("Discrete Mathematics");
+    System.Console.WriteLine("Islamiyat");
+    System.Console.WriteLine("ITS");
 }
-
